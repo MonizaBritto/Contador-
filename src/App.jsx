@@ -1,5 +1,5 @@
 import React from 'react' // importa react (Não obrigatório)
-import Contador from './contador/contador.jsx'
+import Contador from './Componentes/contador/contador.jsx'
 
 function App(){
   return(
